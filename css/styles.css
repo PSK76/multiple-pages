@@ -1,0 +1,27 @@
+body {
+  background: pink;
+}
+
+h1,
+p {
+  display: block;
+  text-align: center;
+  margin: 20px;
+  padding: 10px;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: chocolate;
+}
+
+.croissant-photo {
+  margin: 30px auto;
+  border-radius: 10px;
+  display: block;
+  max-width: 60%;
+}
